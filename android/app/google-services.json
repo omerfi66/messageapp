@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9792198179",
+    "project_id": "messageapp-2bed6",
+    "storage_bucket": "messageapp-2bed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9792198179:android:05cb5b1debb1dcdafd8396",
+        "android_client_info": {
+          "package_name": "com.example.messageaoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHL28hVn5JN9wHnyyvhlsjlcTMbDdndxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

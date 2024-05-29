@@ -1,6 +1,7 @@
-Herkese Merhaba, 
-messageApp uygulamasi firebase cli ile entegre edilerek yapilmis mail ile giris yapilan kullanici search motoru ile kullanici arayip onunla mesajlasilan bir mesajlasma uygulamasi.📱
-Proje gelisimi hala devam ediyor..
+"Merhaba Herkese,
+
+messageApp uygulaması, Firebase CLI ile entegre edilerek yapılmıştır. Kullanıcıların e-posta ile giriş yapabildiği, arama motoruyla diğer kullanıcıları bulup anlık mesajlaşma imkanı sunan bir mesajlaşma uygulamasıdır. 📱
+Projenin gelişimi halen devam etmektedir."
 
 
 <img width="200" alt="Ekran Resmi 2024-05-29 15 14 42" src="https://github.com/omerfi66/messageapp/assets/120007024/63567fd1-db4f-4430-a6b5-394ece42016e">
